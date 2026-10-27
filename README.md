@@ -2,11 +2,11 @@
 Proyecto intermodular de Corexa de 2º Daw sobre el Club Tenis Morvedre
 
 ## Descripción General
-Breve descripción.
+Ampliar la página web de tennis con un apartado para las reservas de las pistas, con información de las disponibles y las ocupadas con su respectivo horario. Con posibilidad de ampliar más funciones.
 
 ## Integrantes del Grupo
-*   **[Tu Nombre]** - Rol: Git Master / Responsable de Repositorio
-*   **[Compañero 2]** - Rol: Responsable de Planificación y Tareas
+*   **[Angel]** - Rol: Git Master / Supervisor
+*   **[Naim]** - Rol: Secretario
 *   **[Compañero 3]** - Rol: Diseñador / Documentación
 
 ## Tecnologías en fase de evaluación
